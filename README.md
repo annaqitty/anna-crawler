@@ -21,7 +21,7 @@ $env:SEARXNG_URL="http://localhost:8080"
 Then run the scraper:
 
 ```powershell
-python scraper.py
+python anna-crawler.py
 ```
 
 ---
